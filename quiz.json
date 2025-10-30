@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "Q1) Which mechanical system resembles the human heart?",
+        "options": [
+            "Flywheel",
+            "Hydraulic pump",
+            "Governor",
+            "Carburetor"
+        ],
+        "answer": "Hydraulic pump"
+    },
+    {
+        "id": 2,
+        "question": "Q2) Why does a moving bicycle stay upright more easily?",
+        "options": [
+            "Air drag",
+            "Tyre pressure",
+            "Gyroscopic effect",
+            "Rider's mass"
+        ],
+        "answer": "Gyroscopic effect"
+    },
+    {
+        "id": 3,
+        "question": "Q3) What happens if you fill diesel in a petrol car?",
+        "options": [
+            "It runs smoother",
+            "No effect",
+            "Improves mileage",
+            "Engine misfires and stalls"
+        ],
+        "answer": "Engine misfires and stalls"
+    },
+    {
+        "id": 4,
+        "question": "Q4) Why are front bakes disc-type in most cars?",
+        "options": [
+            "For style",
+            "Front handles more braking load",
+            "Drum brakes heat faster",
+            "To reduce cost"
+        ],
+        "answer": "Front handles more braking load"
+    },
+    {
+        "id": 5,
+        "question": "Q5) What causes knocking in petrol engines?",
+        "options": [
+            "Premature ignition of fuel-air mix",
+            "Wrong fuel filter",
+            "Lack of lubrication",
+            "Late ignition"
+        ],
+        "answer": "Premature ignition of fuel-air mix"
+    },
+    {
+        "id": 6,
+        "question": "Q6) Why is aluminium used for some engine blocks?",
+        "options": [
+            "It's lighter and conducts heat better",
+            "It's cheaper",
+            "It's stronger",
+            "It looks cooler"
+        ],
+        "answer": "It's lighter and conducts heat better"
+    },
+    {
+        "id": 7,
+        "question": "Q7) Increasing compression ratio in an engine usually?",
+        "options": [
+            "Increases emissions only",
+            "Increases efficiency",
+            "Decreases efficiency",
+            "No effect"
+        ],
+        "answer": "Increases efficiency"
+    },
+    {
+        "id": 8,
+        "question": "Q8) What does a differential help with?",
+        "options": [
+            "Equal wheel speeds",
+            "Fuel Economy",
+            "Different wheel speeds during turns",
+            "Steering stability"
+        ],
+        "answer": "Different wheel speeds during turns"
+    },
+    {
+        "id": 9,
+        "question": "Q9) Why do cars have a radiator?",
+        "options": [
+            "Cool the engine",
+            "Heat the cabin",
+            "Filter fuel",
+            "Increase exhaust pressure"
+        ],
+        "answer": "Cool the engine"
+    },
+    {
+        "id": 10,
+        "question": "Q10) What does a flywheel do in an engine?",
+        "options": [
+            "Store heat",
+            "Increase torques",
+            "Reduce friction",
+            "Store mechanicla energy to maintain speed"
+        ],
+        "answer": "Store mechanicla energy to maintain speed"
+    },
+    {
+        "id": 11,
+        "question": "Q11) Which law explains why passengers lurch forward when a car stops suddenly??",
+        "options": [
+            "Newton's 3rd law",
+            "Newton's 1st law",
+            "Newton's 2nd law",
+            "Hooke's law"
+        ],
+        "answer": "Newton's 1st law"
+    },
+    {
+        "id": 12,
+        "question": "Q12) What does RPM stands for?",
+        "options": [
+            "Revolutions Per Minute",
+            "Rotations Per Minute",
+            "Revolutions Per Meter",
+            "Rotation Power Mode"
+        ],
+        "answer": "Rotations Per Minute"
+    },
+    {
+        "id": 13,
+        "question": "Q13) Which part of the engine stors energt to maintain smooth rotation?",
+        "options": [
+            "Piston",
+            "Crankshaft",
+            "Flywheel",
+            "Camshaft"
+        ],
+        "answer": "Flywheel"
+    },
+    {
+        "id": 14,
+        "question": "Q14) Gear ratio is defined as?",
+        "options": [
+            "Speed of engine / Speed of wheels",
+            "Torque / RPM",
+            "Engine Power / Torque",
+            "Number of gears / Wheel diameter"
+        ],
+        "answer": "Speed of engine / Speed of wheels"
+    },
+    {
+        "id": 15,
+        "question": "Q15) What does BHP stand for?",
+        "options": [
+            "Brake Horse Power",
+            "Base Hydraulic Pressure",
+            "Basic Heat Power",
+            "Brake Heat Potential"
+        ],
+        "answer": "Brake Horse Power"
+    },
+    {
+        "id": 16,
+        "question": "Q16) The main function of a carburetor is?",
+        "options": [
+            "Increase RPM",
+            "Cool engine",
+            "Filter exhaust gases",
+            "Mix air and fuel"
+        ],
+        "answer": "Mix air and fuel"
+    },
+    {
+        "id": 17,
+        "question": "Q17) Which lubricant is most commonly used in internal combustion engines?",
+        "options": [
+            "Oil",
+            "Grease",
+            "Diesel",
+            "Engine Oil"
+        ],
+        "answer": "Engine Oil"
+    },
+    {
+        "id": 18,
+        "question": "Q18) In gear trains, the driver gear is?",
+        "options": [
+            "The gear that receives motion",
+            "Always smaller",
+            "Always larger",
+            "The gear that transmits motion"
+        ],
+        "answer": "The gear that transmits motion"
+    },
+    {
+        "id": 19,
+        "question": "Q19) The process of reducing a solid metal's thickness by passing it through rollers is called?",
+        "options": [
+            "Casting",
+            "Rolling",
+            "Extrusion",
+            "Forging"
+        ],
+        "answer": "Rolling"
+    },
+    {
+        "id": 20,
+        "question": "Q20) Why is stainless steel preferred for exhaust systems?",
+        "options": [
+            "Lightweight",
+            "Conducts heat faster",
+            "Corrosion resistance",
+            "Cheaper than mild steel"
+        ],
+        "answer": "Corrosion resistance"
+    }
+]
